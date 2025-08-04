@@ -1,0 +1,24 @@
+.app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.hover-box {
+  padding: 1rem;
+  border: 1px dashed #888;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+
+.counter {
+  font-weight: bold;
+}
